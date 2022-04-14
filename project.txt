@@ -1,6 +1,6 @@
 package Learn;
 
-import java.util.Scanner ;
+import java.util.Scanner;
 
 public class uber {
 	
